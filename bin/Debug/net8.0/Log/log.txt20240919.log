@@ -1,0 +1,27 @@
+2024-09-19 10:34:50,102 INFO  LibraryManagementApi.Controllers.BorrowedBookController - Updating borrowed book with ID: 1
+2024-09-19 10:34:50,336 INFO  LibraryManagementApi.Controllers.BorrowedBookController - Borrowed book with ID 1 updated successfully
+2024-09-19 10:34:58,208 INFO  LibraryManagementApi.Controllers.BorrowedBookController - Email sent to Kanishkka confirming the return of book '1984'
+2024-09-19 10:46:50,426 INFO  LibraryManagementApi.Controllers.BookController - Fetching all books...
+2024-09-19 10:46:50,683 INFO  LibraryManagementApi.Controllers.BookController - Books retrieved successfully
+2024-09-19 10:50:40,075 INFO  LibraryManagementApi.Controllers.BorrowedBookController - Adding a new borrowed book...
+2024-09-19 10:50:40,608 INFO  LibraryManagementApi.Controllers.BorrowedBookController - Borrowed book added successfully with ID: 4
+2024-09-19 10:50:59,585 INFO  LibraryManagementApi.Controllers.BookController - Fetching book with ID: 4
+2024-09-19 10:50:59,599 INFO  LibraryManagementApi.Controllers.BookController - Book with ID 4 retrieved successfully
+2024-09-19 10:51:30,133 INFO  LibraryManagementApi.Controllers.ReservationController - Adding a new reservation...
+2024-09-19 10:51:30,193 INFO  LibraryManagementApi.Controllers.ReservationController - Reservation added successfully with ID: 2
+2024-09-19 10:53:25,603 INFO  LibraryManagementApi.Controllers.BorrowedBookController - Updating borrowed book with ID: 4
+2024-09-19 10:53:33,922 INFO  LibraryManagementApi.Controllers.BorrowedBookController - Borrowed book with ID 4 updated successfully
+2024-09-19 11:05:24,152 INFO  LibraryManagementApi.Controllers.BorrowedBookController - Updating borrowed book with ID: 5
+2024-09-19 11:05:24,255 INFO  LibraryManagementApi.Controllers.BorrowedBookController - Borrowed book with ID 5 updated successfully
+2024-09-19 11:05:53,916 INFO  LibraryManagementApi.Controllers.BorrowedBookController - Adding a new borrowed book...
+2024-09-19 11:05:53,961 INFO  LibraryManagementApi.Controllers.BorrowedBookController - Borrowed book added successfully with ID: 6
+2024-09-19 11:06:13,859 INFO  LibraryManagementApi.Controllers.ReservationController - Adding a new reservation...
+2024-09-19 11:06:13,889 INFO  LibraryManagementApi.Controllers.ReservationController - Reservation added successfully with ID: 3
+2024-09-19 11:06:41,287 INFO  LibraryManagementApi.Controllers.BorrowedBookController - Updating borrowed book with ID: 6
+2024-09-19 11:06:49,418 INFO  LibraryManagementApi.Controllers.BorrowedBookController - Borrowed book with ID 6 updated successfully
+2024-09-19 11:07:21,193 INFO  LibraryManagementApi.Controllers.ReservationController - Fetching reservation with ID: 3
+2024-09-19 11:07:21,204 INFO  LibraryManagementApi.Controllers.ReservationController - Reservation with ID 3 fetched successfully
+2024-09-19 17:09:58,061 INFO  LibraryManagementApi.Controllers.BookController - Adding a new book...
+2024-09-19 17:09:58,246 INFO  LibraryManagementApi.Controllers.BookController - Book 'Got' added successfully
+2024-09-19 19:01:45,483 INFO  LibraryManagementApi.Controllers.BorrowedBookController - Adding a new borrowed book...
+2024-09-19 19:01:46,787 INFO  LibraryManagementApi.Controllers.BorrowedBookController - Borrowed book added successfully with ID: 1
